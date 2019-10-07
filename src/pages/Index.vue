@@ -1,17 +1,14 @@
 <template>
   <Layout>
-    <img class="greet-image" src="../../uploads/hello.svg" />
+    <img class="greet-image" src="../../uploads/Landscapes/Hilltops near Sintra.jpg" />
 
-    <h2 class="mb-4">Gridsome starter bootstrap</h2>
+    <h2 class="mb-4">Welcome!</h2>
     <p>
-      This is a starter project for Gridsome that comes with many features out of the box. It utilizes Bootstrap that is well known
-      for powerful styling and layout. Ready to be deployed, automagically imports data to CMS and sets up your /admin page for easy
-      access to edit your content. 
+      This is the website for the art of Tom Greenwood. 
     </p>
 
     <p>
-      It is designed to use Netlify, Forestry and Github which all have very fair free tier to their services, so you wont need to pay
-      for monthly subscriptions and costly hosting fees.
+      It is designed to use Netlify, Forestry and Github using Vue.js and Gridsome with a starter template by Loke Carlsson.
     </p>
 
     <h3 class="mt-5 mb-4">Features</h3>
@@ -86,7 +83,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Gridsome starter bootstrap'
+    title: "Tom's art site"
   }
 }
 </script>
