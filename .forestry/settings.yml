@@ -19,4 +19,4 @@ build:
   install_dependencies_command: yarn install
   preview_docker_image: node:10
   mount_path: "/srv"
-  instant_preview_command: gridsome build
+  instant_preview_command: yarn dev
