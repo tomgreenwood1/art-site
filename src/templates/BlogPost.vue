@@ -66,7 +66,8 @@ export default {
 }
 
 .blogImage {
-  max-height: 400px;
   width: 100%;
+  background-size: cover; 
+  background-position: center center
 }
 </style>

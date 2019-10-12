@@ -1,5 +1,5 @@
 ---
-title: tbt to dorset art weeks
+title: Happy accidents
 excerpt: This painting started as something to do whille waiting for visitors at dorset art weeks.
 date: 2019-10-07 17:00:00 +0000
 author: Tom Greenwood

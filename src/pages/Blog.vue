@@ -42,6 +42,7 @@ query Blog {
   img {
     width: 120px;
     height: 120px;
+    object-fit: contain;
   }
 }
 
