@@ -11,7 +11,7 @@
     <h3 class="mt-5 mb-4">Living artsits I like</h3>
     <ul>
       <li>
-        <a target="_blank" rel="noopener" href="https://www.luca.indraccolo.com/"> Luca Indracollo</a> Taught me.
+        <a target="_blank" rel="noopener" href="https://www.luca.indraccolo.com/"> Luca Indracollo</a> 
       </li>
       <li>
         <a target="_blank" rel="noopener" href="https://sjfuerst.com/"> Sally Jane Fuerst</a> 
