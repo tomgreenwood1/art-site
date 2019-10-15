@@ -6,4 +6,4 @@ author: Tom Greenwood
 image: "/uploads/Landscapes/The View from Painters_ Park.jpg"
 ---
 
-This view is on the edge of Aix-en-Provence..
+This view is on the edge of Aix-en-Provence, just up the road from Cezanne's studio.
