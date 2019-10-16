@@ -25,7 +25,7 @@
     </ul>
 
     <h3 class="mt-5 mb-4">My site</h3>
-    <p>I built this site using <a href="https://gridsome.org/starters/bootstrap-starter/">A starter template</a> by <a href="https://lohe.dev"> Loke Carlsson</a> .
+    <p>I built this site using <a href="https://gridsome.org/starters/bootstrap-starter/">A grisome starter template</a>.
        It is deployed via  <a href="https://www.netlify.com/">Netlify</a> . If you're interested to build one yourself (it's ALL FREE) just click on the 
        starter template link above and follow the intructions (and email me if you get stuck).
     </p>
